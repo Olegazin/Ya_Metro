@@ -182,13 +182,75 @@
  </details>
 
 ## Инструменты для тестирования 
-<p align="left"> 
+<p align="left">
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://developer.android.com/images/studio/badges/android-studio-share.png" width="36" height="36" alt="Android Studio"></a>
-</p> 
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://developer.android.com/images/branding/badges/android_studio_badge.svg" width="36" height="36" alt="Android Studio"></a>
+</p>
+</p>
+
+
+## Процесс тестирования
+[Вся тестовая документация доступна по ссылке](https://docs.google.com/spreadsheets/d/1IDCIsPEtDBlCX7_PSv-VEAIr77RghhW7RiAPxqmIrFs/edit?gid=899462569#gid=899462569)
+### 1-й спринт
+В ходе тест-анализа документации был составлен чек-лист новой функциональности, а также чек-лист который учитывает особенности мобильного приложения (Регрессионое тестирование). Заведены баг-репорты.
+
+#### Чек-лист (функциональное тестирование)
+
+<details>
+<summary>Чек-лист</summary>
+
+
+<img width="1106" height="1652" alt="2025-07-18_174355" src="https://github.com/user-attachments/assets/6ea9ad24-f693-4906-adad-d042f23f2a70" />
+
+
+ </details>
+
+ #### Чек-лист (регрессионое тестирование)
+
+<details>
+<summary>Чек-лист</summary>
+
+<img width="1127" height="1625" alt="123" src="https://github.com/user-attachments/assets/38114f68-38cb-4731-a280-7669e09f26e6" />
+
+
+ </details>
+
+ #### Баг-репорты
+
+ <details>
+<summary>Баг-репорты</summary>
+
+<img width="1266" height="1701" alt="2121" src="https://github.com/user-attachments/assets/f4992a21-83b9-4418-a445-5792dffa7268" />
+
+ </details>
+
+ ## Отчет о тестировании мобильного приложения Я.Метро
+ Тестирование проводилось в следующем тестовом окружении: (эмулятор Android Studio, версия ОС Android 9.0 Pie, модель телефона - Honor 8). Номер тестируемой версии приложения: (v3.6). Все требования, затронутые изменениями, были покрыты чек-листом.
+ 
+Также написан регрессионный чек-лист:
+
+Из 73 проверок успешно прошло 57 тестов, не прошло — 16 тестов
+
+Список багов, найденных при тестировании, разбит по приоритетам:
+
+- Блокирующие: [отсутствуют]
+
+- Критичные: [ BUG-14]
+
+- Средний приоритет: [BUG-1, BUG-2, BUG-3, BUG-4, BUG-10,  BUG-11, BUG-12, BUG-13]
+
+- Низкий приоритет: [BUG-5, BUG-6, BUG-7, BUG-8, BUG-9]
+
+- Незначительные: [отсутствуют]
+
+С учётом того, что блокирующих багов не найдено, а критические дефекты не мешают пользователю использовать основной функционал приложения, команда тестирования не против публикации новой версии приложения в Google Play 
+
+
+
+
 
 
 
