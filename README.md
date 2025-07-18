@@ -187,8 +187,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://developer.android.com/images/branding/badges/android_studio_badge.svg" width="36" height="36" alt="Android Studio"></a>
-</p>
+ <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://developer.android.com/images/studio/badges/android-studio-share.png" width="36" height="36" alt="Android Studio"></a>
 </p>
 
 
